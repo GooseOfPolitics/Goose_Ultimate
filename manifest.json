@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "A low quality texture pack centered around geese",
+      "name": "Goose Ultimate",
+      "uuid": "210d93de-e32f-11eb-888d-5f6d46b37061",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 17, 0]
+    },
+    "modules": [
+      {
+        "description": "A low quality texture pack centered around geese.",
+        "type": "resources",
+        "uuid": "1872e724-e32f-11eb-a054-c335fe1fdae5",
+        "version": [1, 0, 0]
+      }
+    ]
+  }
